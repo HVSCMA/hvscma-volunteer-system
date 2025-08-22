@@ -1,0 +1,46 @@
+[
+  {
+    "id": "current-event",
+    "name": "Spring Cleanup & Maintenance",
+    "date": "2024-04-15",
+    "time": "9:00 AM - 4:00 PM",
+    "description": "Join us for our spring work day! Help maintain our beautiful club facilities with landscaping, cleaning, and general maintenance tasks. Every helping hand makes a difference!",
+    "tasks": [
+      {
+        "id": "landscaping",
+        "name": "Landscaping & Grounds",
+        "needed": 6,
+        "time": "9:00 AM - 12:00 PM"
+      },
+      {
+        "id": "painting",
+        "name": "Painting & Touch-ups",
+        "needed": 4,
+        "time": "9:00 AM - 3:00 PM"
+      },
+      {
+        "id": "cleaning",
+        "name": "Deep Cleaning",
+        "needed": 5,
+        "time": "10:00 AM - 2:00 PM"
+      },
+      {
+        "id": "maintenance",
+        "name": "General Maintenance",
+        "needed": 3,
+        "time": "9:00 AM - 4:00 PM"
+      },
+      {
+        "id": "setup",
+        "name": "Event Setup/Breakdown",
+        "needed": 4,
+        "time": "8:00 AM - 5:00 PM"
+      }
+    ],
+    "organizer": {
+      "name": "Glenn Fitzgerald",
+      "email": "glenn@hvscma.com",
+      "phone": "845-222-1400"
+    }
+  }
+]
